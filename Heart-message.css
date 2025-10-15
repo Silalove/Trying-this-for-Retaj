@@ -21,7 +21,7 @@ body {
 	top: 36%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-    z-index: 2; /* تأكد من ظهورها فوق القلب */
+    z-index: 2; 
 }
 
 .container {
